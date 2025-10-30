@@ -8,7 +8,7 @@ Note: To ensure accurate responses based on the provided documentation, please i
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/tejugang/krkn-lightspeed-rag-chatbot.git
-cd krkn-lightspeed-rag-chatbot
+cd krkn-assist-rag-chatbot
 ```
 
 ### 2. Create + activate a virtual environment
